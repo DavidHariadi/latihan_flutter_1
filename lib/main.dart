@@ -18,7 +18,7 @@ class MainApp extends StatelessWidget {
             height: 100,
             child: const Center(
               child: Text(
-                "Ini Chi",
+                "Ini Child",
                 style: TextStyle(
                     color: Colors.white, fontFamily: "Serif", fontSize: 20.0),
               ),
