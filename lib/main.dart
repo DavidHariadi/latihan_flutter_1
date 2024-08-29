@@ -18,7 +18,7 @@ class MainApp extends StatelessWidget {
             height: 100,
             child: const Center(
               child: Text(
-                "Yang Ini Namanya Child",
+                "Ini Adalah Child",
                 style: TextStyle(
                     color: Colors.white, fontFamily: "Serif", fontSize: 20.0),
               ),
